@@ -1,11 +1,11 @@
 rookie-study-java
 =================
 
-#Due to curiosity began to learn Java
+#@Due to curiosity began to learn Java.
 
-#Interest is the best teacher and it's also promise of study on one's own initiative.
+#@Interest is the best teacher and it's also promise of study on one's own initiative.
 
-#Have idea should pay action
+#@Have idea should pay action.
 
 ##1.First to study java 
 
